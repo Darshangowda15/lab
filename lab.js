@@ -61,8 +61,10 @@ const server = http.createServer((req, res) => {
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to Darshan's Ctrl+C Ctrl+V Zone 🔥</h1>
-        <h2># ADVANCE DATABASE MANAGEMENT SYSTEM LAB PROGRAMS</h2>
+        <h1>Welcome to Darshan Ctrl+C Ctrl+V Zone </h1>
+        <div class="center-text">
+            Bro's and My Dear Girls, Just Execute & Escape This Lab 😎
+        </div>
 `);
 
         // Program 1
