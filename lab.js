@@ -11,53 +11,7 @@ const server = http.createServer((req, res) => {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ADBMS Lab Programs</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f5f5f5;
-        }
-        .container {
-            max-width: 1200px;
-            margin: auto;
-            background-color: white;
-            padding: 20px;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        h1 {
-            color: #333;
-            text-align: center;
-        }
-        h2 {
-            color: #444;
-            border-bottom: 2px solid #444;
-            padding-bottom: 10px;
-        }
-        h3 {
-            color: #555;
-            margin-top: 30px;
-            background-color: #e0e0e0;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        pre {
-            background-color: #f4f4f4;
-            border: 1px solid #ddd;
-            padding: 15px;
-            border-radius: 5px;
-            overflow-x: auto;
-            font-family: 'Courier New', monospace;
-            font-size: 14px;
-        }
-        .question {
-            background-color: #e8f4f8;
-            padding: 10px;
-            border-left: 4px solid #2196F3;
-            margin: 10px 0;
-        }
-    </style>
+    <title>ADBMS Lab Programs</title>    
 </head>
 <body>
     <div class="container">
@@ -922,7 +876,6 @@ int main() {
 }
         </pre>
         
-        <h3>Conclusion: C code needs GCC compiler to run</h3>
 `);
 
         res.write(`
