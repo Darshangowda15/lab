@@ -1,0 +1,13 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab.js",
+ "scripts": {
+  "start": "node lab.js"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
