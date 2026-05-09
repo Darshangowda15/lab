@@ -62,9 +62,7 @@ const server = http.createServer((req, res) => {
 <body>
     <div class="container">
         <h1>Welcome to Darshan Ctrl+C Ctrl+V Zone </h1>
-        <div class="center-text">
-            Bro's and My Dear Girls, Just Execute & Escape This Lab 😎
-        </div>
+        <h3 style="text-align: center;">Bro's and My Dear Girls, Just Execute & Escape This Lab</h3>
 `);
 
         // Program 1
